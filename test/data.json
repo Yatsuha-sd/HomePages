@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Lion",
+    "latin": "Panthera leo",
+    "img": "https://images.unsplash.com/photo-1583499871880-de841d1ace2a?h=900",
+    "alt": "lion couple kissing on a brown rock",
+    "caption": "Clément Roy",
+    "link": "https://unsplash.com/photos/lion-lying-on-brown-rock-MUeeyzsjiY8",
+    "pos": "47% 35%"
+  },
+  {
+    "title": "Asiatic elephant",
+    "latin": "Elephas maximus",
+    "img": "https://images.unsplash.com/photo-1571406761758-9a3eed5338ef?h=900",
+    "alt": "herd of Sri Lankan elephants walking away from a river",
+    "caption": "Alex Azabache",
+    "link": "https://unsplash.com/photos/shallow-focus-photo-of-black-elephants-hZhhVLLKJQ4",
+    "pos": "75% 65%"
+  }
+]
