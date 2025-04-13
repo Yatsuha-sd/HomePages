@@ -34,7 +34,6 @@ fetch('./data.json')
       section.appendChild(article);
     });
 
-    // 変数 --n を記事数に合わせて更新
     root.style.setProperty("--n", data.length);
   })
   .catch(err => console.error('JSON読み込みエラー:', err));
